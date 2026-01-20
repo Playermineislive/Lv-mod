@@ -514,5 +514,6 @@
     <!-- Quick Actions Menu -->
     <string name="quick_launch">Quick Launch</string>
     <string name="quick_launch_menu_subtitle">Launch with URI actions</string>
-
+    <string name="resolution_title">Resolution</string>
+<string name="resolution_subtitle">Reduce lag by lowering resolution</string>
 </resources>
